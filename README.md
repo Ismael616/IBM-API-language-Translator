@@ -1,4 +1,4 @@
 # IBM-API-language-Translator-
 
-Simple Language Translator using IBM language translator API <\br>
+Simple Language Translator using IBM language translator API <br/>
 developed with Streamlit 
